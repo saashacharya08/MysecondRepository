@@ -1,0 +1,7 @@
+X = 2 
+Y = 3 
+if x > y:
+       print("this is correct")
+else:
+      print("this is wrong")
+      
